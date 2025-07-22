@@ -1,4 +1,4 @@
-## 🚩 Bem-vindos ao QA em Ação! 🧐 <br>
+## 🚩 Bem-vindos ao QA em Ação! <br>
 
 <p align="left">
     <a href="https://github.com/paulorasjunior?tab=followers">
@@ -7,17 +7,16 @@
         <img alt="Total de estrelas" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/paulorasjunior?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
-**`QA Tester`**
+**`Quality Assurance Tester`**
 
 <p align="justify">
-    Depois de 7 anos trabalhando como Suporte e Infraestrutura, descobri minhas reais habilidades e migrei para a carreira de QA. Após 2 anos de muitos estudos, inicei como QA Junior e dentro de 3 meses fui promovido para <strong>Pleno</strong>!
-    Estou finalizando uma graduação em Gestão de T.I. e me preparando para minha primeira certificação(CTFL). Busco descobrir novas tecnologias, desenvolver skills, encontrar novas possibilidades e garantir a melhoria contínua em cada projeto que faço parte!
-    Vem comigo que o "QA em Ação" está só começando!
+    - 🔎 Depois de 7 anos trabalhando com Suporte e Infraestrutura, descobri minhas reais habilidades e migrei para a carreira de QA. Após 2 anos de muitos estudos, inicei como QA Junior e dentro de 3 meses fui promovido para <strong>Pleno</strong>!<br/>
+    - 💻 Estou finalizando uma graduação em Gestão de T.I. e me preparando para minha primeira certificação (CTFL).<br/>
+    - 🧰 Em busca de novas tecnologias, skills e possibilidades, visando garantir a melhoria contínua em cada projeto que faço parte!<br/><br/>
+    ⚡ Vem comigo, que o "QA em Ação" está só começando!<br/><br/>
 </p>
 
-----
-
-### ✨ Conhecimento em Linguagens🔻
+## ✨ Conhecimento em Linguagens🔻
 
 <img 
     align="left"
@@ -50,7 +49,15 @@
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/> 
+/>
+<img
+    align="left"
+    alt="CSS"
+    title="CSS"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
 <img
     align="left"
     alt="JavaScript"
@@ -58,7 +65,15 @@
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/> 
+/>
+<img
+    align="left"
+    alt="Figma"
+    title="Figma"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
 <img 
     align="left"
     alt="Jira"
@@ -85,7 +100,9 @@
 />
 <br/>
 <br/>
-### 📊 Estatísticas🔻
+
+## 📊 Estatísticas🔻
+
 <img 
     align="center" 
     alt="GitHub Stats" 
@@ -101,9 +118,7 @@
 />
 <br/>
 
-----
-
-#### 😉 Como me encontrar🔻
+## 🔗 Como me encontrar🔻
 
 <p>
     <a href="https://www.linkedin.com/in/paulorasjunior/">
