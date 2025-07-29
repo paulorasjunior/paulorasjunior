@@ -1,11 +1,8 @@
 ## 🚩 Bem-vindos ao QA em Ação! <br>
 
-<p align="left">
-    <a href="https://github.com/paulorasjunior?tab=followers">
-        <img alt="Seguidores" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/paulorasjunior?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/></a>
-    <a href="https://github.com/paulorasjunior?tab=repositories&sort=stargazers">
-        <img alt="Total de estrelas" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/paulorasjunior?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-</p>
+![Followers](https://custom-icon-badges.demolab.com/github/followers/paulorasjunior?logo=person-add&style=social&logoColor=black)
+![Followers](https://custom-icon-badges.demolab.com/github/stars/paulorasjunior/custom-icon-badges?logo=star&style=flat)
+
 
 **`Quality Assurance Tester`**
 
